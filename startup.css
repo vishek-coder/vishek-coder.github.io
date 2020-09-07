@@ -1,0 +1,36 @@
+body{
+	height: 100%
+	width:  100;
+	background: url(startup.jpg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	color: yellow;
+	border: 2px solid #dc3545;
+	text-align: center;
+}
+.buffer{
+	height: 5rem;
+}
+ 
+ hr{
+ 	background-color: #dc3545;
+ 	background-size: 10px;
+ 	max-width: 95px;
+ }
+
+.btn{
+	text-transform: uppercase;
+	border-radius: 300px;
+	
+}
+
+.btn:hover{
+	font-size: 15px;  
+	
+}
+
